@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1531936099 source:c:\users\casa\desktop\carreracocina\main.cpp
+	<stdio.h>
+	"menu.h"
+	"mapeoasig.h"
+	"asignatura.h"
+	"avlalumno.h"
+
+1531691778 source:c:\users\casa\desktop\carreracocina\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1506638574 c:\users\casa\desktop\carreracocina\boolean.h
+
+1513044146 source:c:\users\casa\desktop\carreracocina\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1513043982 c:\users\casa\desktop\carreracocina\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1512927942 source:c:\users\casa\desktop\carreracocina\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1509143278 c:\users\casa\desktop\carreracocina\stringdinamico.h
+	"boolean.h"
+
+1531931020 source:c:\users\casa\desktop\carreracocina\asignatura.cpp
+	"asignatura.h"
+	"stdio.h"
+
+1531931020 c:\users\casa\desktop\carreracocina\asignatura.h
+	"stdio.h"
+	"stringdinamico.h"
+	"boolean.h"
+
+1531705875 source:c:\users\casa\desktop\carreracocina\alumno.cpp
+	"alumno.h"
+	"stdio.h"
+	"listaaprob.h"
+
+1531700984 c:\users\casa\desktop\carreracocina\alumno.h
+	"stdio.h"
+	"stringdinamico.h"
+	"listaaprob.h"
+
+1531936099 source:c:\users\casa\desktop\carreracocina\aprobacion.cpp
+	"aprobacion.h"
+	"stdio.h"
+
+1531706943 c:\users\casa\desktop\carreracocina\aprobacion.h
+	"stdio.h"
+	"stringdinamico.h"
+	"fecha.h"
+
+1531080825 source:c:\users\casa\desktop\carreracocina\hashasig.cpp
+	"hashAsig.h"
+	<stdio.h>
+
+1531080782 c:\users\casa\desktop\carreracocina\hashasig.h
+	"stdio.h"
+	"asignatura.h"
+	"boolean.h"
+
+1531075138 source:c:\users\java\desktop\carreracocina\aprobacion.cpp
+	"aprobacion.h"
+	"stdio.h"
+
+1531071962 c:\users\java\desktop\carreracocina\aprobacion.h
+	"stdio.h"
+	"stringdinamico.h"
+	"fecha.h"
+
+1509143278 c:\users\java\desktop\carreracocina\stringdinamico.h
+	"boolean.h"
+
+1506638574 c:\users\java\desktop\carreracocina\boolean.h
+
+1513043982 c:\users\java\desktop\carreracocina\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1531071961 source:c:\users\java\desktop\carreracocina\asignatura.cpp
+	"asignatura.h"
+	"stdio.h"
+
+1531071962 c:\users\java\desktop\carreracocina\asignatura.h
+	"stdio.h"
+	"stringdinamico.h"
+	"boolean.h"
+
+1512929296 source:c:\users\java\desktop\carreracocina\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1513044146 source:c:\users\java\desktop\carreracocina\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1531083237 source:c:\users\java\desktop\carreracocina\mapeoasig.cpp
+	"mapeoasig.h"
+	<stdio.h>
+
+1531174921 c:\users\java\desktop\carreracocina\mapeoasig.h
+	"stdio.h"
+	"asignatura.h"
+	"boolean.h"
+
+1512927942 source:c:\users\java\desktop\carreracocina\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1531935901 source:c:\users\casa\desktop\carreracocina\mapeoasig.cpp
+	"mapeoasig.h"
+	<stdio.h>
+
+1532201779 c:\users\casa\desktop\carreracocina\mapeoasig.h
+	"listaaprob.h"
+	"stdio.h"
+	"asignatura.h"
+	"boolean.h"
+	"aprobacion.h"
+
+1531704416 source:c:\users\casa\desktop\carreracocina\avlalumno.cpp
+	"avlalumno.h"
+	<stdio.h>
+	"boolean.h"
+
+1532201351 c:\users\casa\desktop\carreracocina\avlalumno.h
+	"stdio.h"
+	"alumno.h"
+
+1531938206 source:c:\users\casa\desktop\carreracocina\listaaprob.cpp
+	<stdio.h>
+	"listaaprob.h"
+	"mapeoasig.h"
+
+1532201480 c:\users\casa\desktop\carreracocina\listaaprob.h
+	"aprobacion.h"
+	"boolean.h"
+
+1531684442 source:c:\users\casa\desktop\carreracocina\menu.cpp
+	<stdio.h>
+	"menu.h"
+
+1531683777 c:\users\casa\desktop\carreracocina\menu.h
+	<stdio.h>
+
